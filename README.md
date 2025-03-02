@@ -17,8 +17,3 @@ This course teaches you everything you need to build full-stack applications wit
 - Apply best practices 
 
 By the end of this course, you'll have a solid grasp of Next.js and be able to build real-world applications.
-
-You can find the full course at: 
-
-https://codewithmosh.com
-
